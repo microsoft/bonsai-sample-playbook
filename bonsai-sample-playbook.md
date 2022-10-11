@@ -28,7 +28,7 @@ When building a sample, keep the following principles in mind to make the most i
 A great sample will include all of the following components:
 
 ### 1. AI Spec
-This is the brain design document that describes what brain should be built and why. This is often written by a Solution Architect and used by an Applied AI engineer as a starting point to write the brain specification, called Inkling.
+This is a brain design document that describes what brain should be built and why. This is often written by a Solution Architect and used by an Applied AI engineer as a starting point to write the brain specification, called Inkling.
 
 - See the [AI Spec Template](https://github.com/defeirst/defeirstpage.github.io/blob/main/docs/AISpec_TEMPLATE.docx)
 
