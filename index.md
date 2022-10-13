@@ -99,4 +99,5 @@ Publication of sample results and why they are valuable
 ### 12. Azure Marketplace Listing
 List the sample in the [Azure marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps?search=bonsai_samples&page=1) so users can discover it
 
+- Learn how to publish and provision an asset in the marketplace [here](./Bonsai-Marketplace.md)
 - Example: [CSTR marketplace listing](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoftcorporation1638560120339.bonsai_cstr_sample?tab=Overview)
