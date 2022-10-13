@@ -97,6 +97,6 @@ A demo video is a recording of the sample story and demo
 Publication of sample results and why they are valuable
 
 ### 12. Azure Marketplace Listing
-List the sample in the Azure marketplace so users can discover it
+List the sample in the [Azure marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps?search=bonsai_samples&page=1) so users can discover it
 
 - Example: [CSTR marketplace listing](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoftcorporation1638560120339.bonsai_cstr_sample?tab=Overview)
