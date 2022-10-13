@@ -1,5 +1,3 @@
-The Bonsai Sample Project Playbook intends to provide an overview of our approach for the successful delivery of a sample project. This site aggregates best practices and resources for project scoping and delivery.
-
 ## What is a Bonsai Sample?
 
 A Bonsai Sample is a demonstrator that can be built to serve one or many purposes. Some examples include:
@@ -79,14 +77,14 @@ The data that shows how a brain performs compared to a benchmark
 - Example: see the final slide of the [Chemical Reactor Story Presentation](https://github.com/defeirst/defeirstpage.github.io/blob/main/docs/ChemicalReactorStory.pptx)
 
 ### 8. Sample Story
-Storytelling is an important technique for communicating the value of the Sample that you design.
+Storytelling is an important technique for communicating the value of the Sample that you design
 
 - You can learn how to tell a use case story by taking the free [Coursera course](https://www.coursera.org/learn/machine-teaching-ai) or the instructor led Cultivate course
 
 - Example: [Chemical Reactor Story Presentation](https://github.com/defeirst/defeirstpage.github.io/blob/main/docs/ChemicalReactorStory.pptx)
 
 ### 9. Demo Script
-A demo script allows others to tell the sample story and demo the sample for others.
+A demo script allows others to tell the sample story and demo the sample for others
 
 - Example: [Moab Demo script](https://github.com/defeirst/defeirstpage.github.io/blob/main/docs/ProjectMoabDemoScript-1page%20.docx)
 
@@ -99,5 +97,6 @@ A demo video is a recording of the sample story and demo
 Publication of sample results and why they are valuable
 
 ### 12. Azure Marketplace Listing
+List the sample in the Azure marketplace so users can discover it
 
 - Example: [CSTR marketplace listing](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoftcorporation1638560120339.bonsai_cstr_sample?tab=Overview)
