@@ -5,6 +5,8 @@ Fill out the [request form](https://forms.office.com/Pages/ResponsePage.aspx?id=
 
 - You will need a current brain version and simulator package. The package must be publishable to the [Microsoft Container Registry](https://github.com/microsoft/containerregistry) so multiple users can provision it.
 
+- Make sure to mention "Bonsai" in the asset name so your sample is easily searchable in the Azure Marketplace.
+
 - Note, your simulator container container image will become public. It is important to remove any secrets inside, such as licensing keys.
 
 
