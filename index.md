@@ -24,13 +24,13 @@ A great sample will include all of the following components:
 ### 1. AI Spec
 This is the brain design document that describes what brain should be built and why. This is often written by a Solution Architect and used by an Applied AI engineer as a starting point to write the brain specification, called Inkling.
 
-- See the [AI Spec Template](https://github.com/defeirst/defeirstpage.github.io/blob/main/docs/AISpec_TEMPLATE.docx)
+- See the [AI Spec Template](/docs/AISpec_TEMPLATE.docx)
 
 - Take the free Coursera courses [Machine Teaching for Autonomous AI](https://www.coursera.org/learn/machine-teaching-ai) and [Designing Autonomous AI](https://www.coursera.org/learn/designing-autonomous-ai) to learn how to identify Bonsai use-cases and write an AI spec
 
 - Talk to your Bonsai sales or partner representative to learn about enrolling in the instructor led Cultivate course
 
-- Example: [Chemical Reactor AI Spec](https://github.com/defeirst/defeirstpage.github.io/blob/main/docs/AISpec_ChemicalReactorSample.docx)
+- Example: [Chemical Reactor AI Spec](docs/ChemicalReactorStory.pdf)
 
 - Example: [Moab AI Spec](https://github.com/defeirst/defeirstpage.github.io/blob/main/docs/AISpec_MoabBalance.docx)
 
