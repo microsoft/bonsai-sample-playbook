@@ -30,9 +30,9 @@ This is the brain design document that describes what brain should be built and 
 
 - Talk to your Bonsai sales or partner representative to learn about enrolling in the instructor led Cultivate course
 
-- Example: [Chemical Reactor AI Spec](docs/ChemicalReactorStory.pdf)
+- Example: [Chemical Reactor AI Spec](docs/AISpec_ChemicalReactorSample.pdf)
 
-- Example: [Moab AI Spec](https://github.com/defeirst/defeirstpage.github.io/blob/main/docs/AISpec_MoabBalance.docx)
+- Example: [Moab AI Spec](docs/AISpec_MoabBalance.pdf)
 
 ### 2. Simulation
 This is the training environment for the Bonsai brain.
@@ -74,19 +74,19 @@ Documented instructions of how results were obtained so they can be replicated.
 ### 7. Results
 The data that shows how a brain performs compared to a benchmark
 
-- Example: see the final slide of the [Chemical Reactor Story Presentation](https://github.com/defeirst/defeirstpage.github.io/blob/main/docs/ChemicalReactorStory.pptx)
+- Example: see the final slide of the [Chemical Reactor Story Presentation](/docs/ChemicalReactorStory.pptx)
 
 ### 8. Sample Story
 Storytelling is an important technique for communicating the value of the Sample that you design
 
 - You can learn how to tell a use case story by taking the free [Coursera course](https://www.coursera.org/learn/machine-teaching-ai) or the instructor led Cultivate course
 
-- Example: [Chemical Reactor Story Presentation](https://github.com/defeirst/defeirstpage.github.io/blob/main/docs/ChemicalReactorStory.pptx)
+- Example: [Chemical Reactor Story Presentation](/docs/ChemicalReactorStory.pptx)
 
 ### 9. Demo Script
 A demo script allows others to tell the sample story and demo the sample for others
 
-- Example: [Moab Demo script](https://github.com/defeirst/defeirstpage.github.io/blob/main/docs/ProjectMoabDemoScript-1page%20.docx)
+- Example: [Moab Demo script](/docs/ProjectMoabDemoScript-1page%20.docx)
 
 ### 10. Demo Video
 A demo video is a recording of the sample story and demo
