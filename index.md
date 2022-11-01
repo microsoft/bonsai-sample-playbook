@@ -86,7 +86,7 @@ Storytelling is an important technique for communicating the value of the Sample
 ### 9. Demo Script
 A demo script allows others to tell the sample story and demo the sample for others
 
-- Example: [Moab Demo script](/docs/ProjectMoabDemoScript-1page%20.docx)
+- Example: [Moab Demo script](/docs/BonsaiMoabDemoScript.pdf)
 
 ### 10. Demo Video
 A demo video is a recording of the sample story and demo
