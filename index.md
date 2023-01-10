@@ -53,6 +53,8 @@ This is the training environment for the Bonsai brain.
 This is the Brain specification that defines what and how a brain is trained. 
 
 - See [Inkling Documentation](https://learn.microsoft.com/en-us/bonsai/inkling/basics)
+- 
+- You can learn how to train a brain by taking the free Coursera course [Building Autonomous AI](https://www.coursera.org/learn/building-autonomous-ai)
 
 - Talk to your Bonsai sales or partner representative to learn about enrolling in the Bonsai Advance Course
 
